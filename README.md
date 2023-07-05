@@ -34,14 +34,14 @@ We created a collaborative Excalidraw document which could be worked on together
 
 ### Wireframe
 
-![](../eventMate-wireframe.png")
+![](./eventMate-wireframe.png)
 
 
 
 ### ERD
 This is what our Schema looked like before we started building anything.
 
-![](../eventMate-ERD.png)
+![](./eventMate-ERD.png)
 
 
 However, this changed when we started connecting our front end APIs to our back end routes. We realised that the concept of a comment only exists as part of an event. Therefore we decided to get rid of the comments model but keep the schema and have it embedded as part of the Events model.
@@ -50,7 +50,7 @@ However, this changed when we started connecting our front end APIs to our back 
 
 ### Data Flow
 
-![](../eventMate-dataflow.png)
+![](./eventMate-dataflow.png)
 
 
  ### User Stories
@@ -72,7 +72,7 @@ However, this changed when we started connecting our front end APIs to our back 
 
 Trello was used as our project management tool and was fundamental in the success of the project. Tickets were initially created for larger tasks and broken down within them. As the project progressed, tasks were added to the ‘to do’ list as the team agreed on what features needed to be added and any bugs that needed fixing. If a team member wanted to focus on a specific task, they could allocate themselves to it. As and when each person completed a task, they would check the group Trello Board and select one of the outstanding tasks. 
 
-![](../eventMate-trello.png)
+![](./eventMate-trello.png)
 
 Having discussed our strengths and what hurdles each person wanted to overcome, and keeping communication open throughout the week, meant each time a new task was due to be started, we were able to agree on who should take on what and whether it could be group or paired work between a person who was confident in the task, and one who wanted to improve in that area. 
 
